@@ -80,7 +80,7 @@ main ul {
 main ul li {
     line-height: 125%;
     margin-bottom: .5rem;
-    font-size: 9rem;
+    font-size: 0.9rem;
 }
 main strong {
     font-weight: 700;
