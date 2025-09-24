@@ -1,0 +1,100 @@
+body{
+
+}
+/*header stuff here*/
+header{
+    background-color:#230b96;
+    padding:10%;
+    font-size:420%;
+    color:white;
+    padding: .5rem;
+    border-radius: 10px;
+    border: 3px solid #7918c9;
+    color:white;
+}
+/*navigation stuff here*/
+nav{
+    background-color: #230b96;
+    padding: .5rem;
+    border-radius: 10px;
+    border: 3px solid #7918c9;
+    color:white;
+}
+nav ul{
+    margin:0;
+    padding: 0 10px;
+    list-style-type: none;
+    display: flex;
+  
+}
+nav a {
+    display:block;
+    padding: .83rem 1rem;
+    text-decoration: none;
+    font-size: 1.1rem;
+    color: #000000;
+    font-weight: 700;
+    color:white;
+}
+
+
+nav li.active a {
+    background-color: #f56105;
+    color:#f2b705
+}
+
+nav li a:hover {
+    color: #f5f505f5;
+}
+
+/*main stuff here*/
+main{
+    padding: 1rem 10px;
+    padding: .5rem;
+    border-radius: 10px;
+    border: 3px solid #7918c9;
+    background-color: #230b96;
+}
+
+main h1{
+    color:#f2b705;
+    margin-bottom: 2rem;
+}
+main h2 {
+    color: #f2b705;
+    margin-bottom: .2rem;
+}
+main p {
+    margin: 0;
+    color:#f2b705
+    
+}
+main ol{
+    padding: .5rem 30px;
+    background-color: #230b96;
+    color: white;
+}
+
+main address {
+    background-color: #230b96;
+    padding: .5rem;
+    border-radius: 10px;
+    border: 3px solid #7918c9;
+    color:white;
+}
+
+/*footer stuff here*/
+footer{
+    margin: 0px;
+    font-size:.8rem;
+    color:black;
+    letter-spacing:4px;
+    background-color: #230b96;
+    padding: .5rem;
+    border-radius: 10px;
+    border: 3px solid #7918c9;
+    color:white;
+    
+}
+
+
